@@ -356,7 +356,11 @@ Please call us at:
 Regards,
 Minimum Strength Gym
 """
-
+def save_lead(category,message):
+    with open ("lead.csv","a",newline="") as file:
+        writer+csv.writer(file)
+        writer.writerrow([category,messege})
+        
 
 print("===== GYM EMAIL AGENT =====")
 
