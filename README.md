@@ -29,4 +29,6 @@ Output:
 Category: membership
 
 Auto Reply:
-Thank you for contacting Minimum Strength Gym...
+Thank you for contacting Minimum Strength Gym... 
+## you wanna test it out you can use this thing below
+https://gym-email-agent-hric98fkpgtbqbyyzzaypb.streamlit.app/
